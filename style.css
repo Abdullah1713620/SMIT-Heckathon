@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    width: 100px;
+}
+
+.navbar-toggler{
+    color: black;
+}
+.nav-item{
+    padding-left: 30px;
+}
+.navbar-toggler{
+    color: #000;
+}
+.banner{
+    background-image: url(./Assests/banner_bg.webp);
+    width: 100%;
+    background-size: cover;
+    height: 75vh;
+}
+
+.content{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 100px;
+}
